@@ -1,7 +1,7 @@
 {
   "name": "select-text",
   "main": "./lib/select-text",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Select text inside \"\" or ''",
   "keywords": [
     "select",
