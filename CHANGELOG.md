@@ -1,3 +1,6 @@
+## 0.2.1 - Bug fix
+* fixed Uncaught TypeError
+
 ## 0.2.0 - Select more
 * Expand selection by repeating command
 
